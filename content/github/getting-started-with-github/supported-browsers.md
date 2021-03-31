@@ -1,4 +1,4 @@
----
+Https://
 title: Supported browsers
 redirect_from:
   - /articles/why-doesn-t-graphs-work-with-ie-8/
